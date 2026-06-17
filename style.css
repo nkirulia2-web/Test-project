@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    background-color: pink;
+    color: white;
+    padding-bottom: 20px;
+}
+.pg{
+    padding-bottom: 20px;
+}
